@@ -5,6 +5,28 @@ _**Frontend developer based in Berlin, Germany**_
 > Feel free to contact me --> 
  :email: svitlana.grytsai@gmail.com
  
+### Programming
+> Java </br>
+> JavaScript </br>
+> Node.js </br>
+> HTML </br>
+> CSS </br>
+> </br>
+> Databases: PostgreSQL
+
+### Technologies
+> Confluence </br>
+> Design Thinking </br>
+> Docker </br>
+> Enterprise Architect </br>
+> Git </br>
+> IntelliJ IDEA </br>
+> Jira </br>
+> Postman </br>
+> Scrum </br>
+> Slack </br>
+> Visual Studio Code </br>
+
 ### Technical Experience
 __Internship__ @ [IAV | Automotive Engineering](https://www.iav.com/) _(Mar. 2019 - Jul. 2019)_ </br>
  Engineering service provider for the automotive industry.
