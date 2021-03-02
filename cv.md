@@ -48,3 +48,11 @@ __Customer Service & Ticketing Agent in Kiev, Ukraine__ @ [KIY AVIA | Air Servic
 
 ### Education economics
 #### **Specialist Diploma - International economics** @ [National Aviation University (NAU Kiev)](http://nau.edu.ua/en/) _(Sep. 2001 - Jun. 2006)_ </br>
+
+### Languages
+
+- Ukrainian: C2
+- Russian: C2
+- English: B1+
+- German: C1
+- French: A1
