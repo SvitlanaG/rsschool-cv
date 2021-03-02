@@ -24,14 +24,24 @@ __Internship__ @ [IAV | Automotive Engineering](https://www.iav.com/) _(Mar. 201
 * UI implementation using Angular
 
 
-**Project "Gamification of a Ticket System"** @ [Projektron BCS](https://fiwprojekte.f4.htw-berlin.de/projekte2019/Projektron/index.html) _(Oct. 2019 - Feb. 2020)_ </br>
+[**Project "Gamification of a Ticket System"**](https://fiwprojekte.f4.htw-berlin.de/projekte2019/Projektron/index.html) @ [Projektron BCS](https://www.projektron.de/) _(Oct. 2019 - Feb. 2020)_ </br>
 
 * Development of a web-based prototype with JavaScript
 * Design and implementation of a relational Database with PostgreSQL
 * Communication and collaboration with the team and the client according to Scrum
 
-**Project “Nutrition app for patients with inflammatory bowel disease "** @ [Aperto GmbH - An IBM Company](https://fiwprojekte.f4.htw-berlin.de/projekte2018/aperto/) _(Oct. 2018 - Feb. 2019)_ </br>
+[**Project “Nutrition app for patients with inflammatory bowel disease "**](https://fiwprojekte.f4.htw-berlin.de/projekte2018/aperto/) @ [Aperto GmbH - An IBM Company](https://www.aperto.com/aperto/de) _(Oct. 2018 - Feb. 2019)_ </br>
 
 * Development of an Android app with Java
 * UI / UX design
 * Communication and collaboration with the team and the client according to Scrum
+
+
+### Customer air service Experience
+__Customer Service & Ticketing Agent in Kiev, Ukraine__ @ [KIY AVIA | Air Service Agentur AG](https://kiyavia.com/) _(Apr. 2006 - Jan. 2015)_ </br>
+ KiyAvia specializes in the sales of transport and travel services for airline and tourism companies across Europe.
+ 
+* Support for corporate clients for all concerns of their business travel
+* Processing bookings for flights, travel insurance, hotels, rental cars and additional services via reservation systems
+* Problem solving in case of irregularities, processing of processing of cancellations and complaints
+* Participation in further training, such as system training, product training, training on travel areas and seminar tours
