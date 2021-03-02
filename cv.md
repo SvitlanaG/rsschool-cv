@@ -27,6 +27,19 @@ _**Frontend developer based in Berlin, Germany**_
 > Slack </br>
 > Visual Studio Code </br>
 
+### Code examples
+```
+<div className="messageCategory">
+            <label htmlFor="messageCategory">Категория сообщения</label>
+            <select className="" name="messageCategory">
+              <option value="default" selected>Выберите категорию</option>
+              <option value="criticism">Критика</option>
+              <option value="wish">Пожелание</option>
+              <option value="question">Вопрос</option>
+            </select>
+          </div>
+```
+
 ### Technical Experience
 __Internship__ @ [IAV | Automotive Engineering](https://www.iav.com/) _(Mar. 2019 - Jul. 2019)_ </br>
  Engineering service provider for the automotive industry.
