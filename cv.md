@@ -45,3 +45,6 @@ __Customer Service & Ticketing Agent in Kiev, Ukraine__ @ [KIY AVIA | Air Servic
 * Processing bookings for flights, travel insurance, hotels, rental cars and additional services via reservation systems
 * Problem solving in case of irregularities, processing of processing of cancellations and complaints
 * Participation in further training, such as system training, product training, training on travel areas and seminar tours
+
+### Education economics
+#### **Specialist Diploma - International economics** @ [National Aviation University (NAU Kiev)](http://nau.edu.ua/en/) _(Sep. 2001 - Jun. 2006)_ </br>
