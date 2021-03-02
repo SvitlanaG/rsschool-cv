@@ -1,4 +1,4 @@
 # rsschool-cv
-CV in format markdown
+CV in format HTML
 
-https://SvitlanaG.github.io/rsschool-cv/cv
+https://SvitlanaG.github.io/rsschool-cv/
