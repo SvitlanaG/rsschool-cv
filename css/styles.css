@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&family=Rubik:wght@300&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1400px;
+  margin: 0 auto;
+  font-family: "Rubik", sans-serif;
+  border-radius: 15px;
+  box-shadow: 0px 10px 50px #555;
+}
+
+header,
+footer {
+  display: flex;
+  background-color: #143642;
+}
+
+header {
+  height: 300px;
+}
+
+.contacts {
+  display: -ms-flexbox;
+  width: 25%;
+  padding: 50px;
+  line-height: 35px;
+  font-size: 105%;
+}
+
+.userinfo {
+  display: -ms-flexbox;
+  width: 50%;
+  text-align: center;
+  padding-top: 100px;
+  line-height: 70px;
+  font-size: 200%;
+}
+
+.userpic {
+  display: flex;
+  width: 25%;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#cv-foto {
+  width: 240px;
+  height: auto;
+  border: 5px solid #b76935;
+  border-radius: 5px;
+}
+
+main {
+  border: 1px #143642;
+}
+
+h1,
+h2 {
+  font-family: "Pathway Gothic One", sans-serif;
+  color: #b76935;
+}
+
+h3,
+h5 {
+  font-family: "Pathway Gothic One", sans-serif;
+  color: white;
+}
+
+.titel {
+  background-color: #b76935;
+  border-radius: 5px;
+  width: 35%;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 1.4em;
+  letter-spacing: 3px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 40px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  justify-self: auto;
+}
+
+#aboutme-text {
+  padding: 40px 0px 40px 0px;
+  font-size: 200%;
+  font-style: italic;
+}
+
+ul {
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 130%;
+}
+
+#rs-logo {
+  width: 100px;
+  height: auto;
+}

@@ -11,11 +11,8 @@
 
   <body>
     <header>
-      <h1>Svitlana Grytsai</h1>
-      <h5>Frontend Developer</h5>
-      <img src="img/cv-foto.jpeg" alt="myphoto" />
       <div class="contacts">
-        <h3>Contacts</h3>
+        <h2>Contacts</h2>
         <ul>
           <li>C: <a href="tel:+4917636968279">+49176 3696 8279</a></li>
           <li>
@@ -42,20 +39,28 @@
           </li>
         </ul>
       </div>
+      <div class="userinfo">
+      <h1>Svitlana Grytsai</h1>
+      <h5>Frontend Developer</h5>
+    </div>
+      <div class="userpic">
+      <img id="cv-foto" src="img/cv-foto.jpeg" alt="myphoto" />
+    </div>
     </header>
 
     <main>
       <section class="intro">
-        <div class="container">
+        <div class="grid-container">
+        <div class="item1">
           <div class="titel">
             <h3>About me</h3>
           </div>
-          <p>
+          <p id="aboutme-text">
             Ukrainian expat in Berlin, who is looking for new meanings in
             everything
           </p>
         </div>
-        <div class="container">
+        <div class="item2">
           <div class="titel">
             <h3>Tech Skills</h3>
           </div>
@@ -66,7 +71,7 @@
             <li>CSS</li>
           </ul>
         </div>
-        <div class="container">
+        <div class="item3">
           <div class="titel">
             <h3>Technologies</h3>
           </div>
@@ -81,7 +86,7 @@
             <li>Visual Studio Code</li>
           </ul>
         </div>
-        <div class="container">
+        <div class="item4">
           <div class="titel">
             <h3>Languages</h3>
           </div>
@@ -93,6 +98,7 @@
             <li>Russian: native</li>
           </ul>
         </div>
+      </div>
       </section>
       <section class="content">
         <div class="steps">
@@ -104,7 +110,7 @@
           <address>
             <a href="https://www.iav.com/" target="_blank"
               >IAV | Automotive Engineering</a
-            ><p>Berlin, Germany</p>
+            ><span>Berlin, Germany</span>
           </address>
           <p>Engineering service provider for the automotive industry.</p>
           <ul>
@@ -130,7 +136,7 @@
           <address>
             <a href="https://www.htw-berlin.de/" target="_blank"
               >Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)</a
-            ><p>Berlin, Germany</p>
+            ><span>Berlin, Germany</span>
           </address>
           <span class="date">Dec. 2019 - Feb. 2020</span>
           <h4>Distributed Systems Project</h4>
@@ -198,7 +204,7 @@
             <address>
               <a href="https://kiyavia.com/" target="_blank"
                 >KIY AVIA | Air Service Agentur AG</a
-              ><p>Kiev, Ukraine</p>
+              ><span>Kiev, Ukraine</span>
             </address>
             <p>KiyAvia specializes in the sales of transport and travel services for airline and tourism companies across Europe.</p>
             <ul>
@@ -223,7 +229,7 @@
             <address>
               <a href="http://nau.edu.ua/en/" target="_blank"
                 >National Aviation University (NAU)</a
-              ><p>Kiev, Ukraine</p>
+              ><span>Kiev, Ukraine</span>
             </address>
           </div>
       </section>
@@ -233,7 +239,8 @@
       <div class="GitHub">G:<a href="https://github.com/SvitlanaG" target="_blank"
         >My GitHub</a></div>
         <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Svitlana Grytsai All Rights Reserved</p>
-        <img src="img/rs_school_js.svg" alt="RS School Logo" />
+        
+        <a href="https://rs.school/js/" target="_blank"><img id="rs-logo" src="img/rs_school_js.svg" alt="RS School Logo"/></a>
     </footer>
   </body>
 </html>
