@@ -1,9 +1,11 @@
 ## Svitlana Grytsai
 
+![Svitlana Grytsai](./img/Jira.JPG)
+
 _**Frontend developer based in Berlin, Germany**_
 
-> Feel free to contact me -->
-> :email: svitlana.grytsai@gmail.com
+> Feel free to contact me -->  
+> email: svitlana.grytsai@gmail.com
 
 ### Programming
 
@@ -22,7 +24,7 @@ _**Frontend developer based in Berlin, Germany**_
 > Jira  
 > Postman  
 > Scrum  
-> Visual Studio Code  
+> Visual Studio Code
 
 ### Code examples
 
