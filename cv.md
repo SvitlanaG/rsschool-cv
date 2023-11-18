@@ -38,7 +38,15 @@ _**Frontend developer based in Berlin, Germany**_
 </script>
 ```
 
-### Technical Experience
+### Professional experience:
+
+**Developer** @ [Materna Information & Communications SE](https://www.materna.de/EN/Home/home_node.html) _(Apr. 2021 - now)_
+
+1. Development in various FMS projects
+2. Form development
+3. Application enhancement through the development of new functionalities
+4. Bug fixes, adjustment of the application according to customer requirements
+5. Application migration
 
 **Internship** @ [IAV | Automotive Engineering](https://www.iav.com/) _(Mar. 2019 - Jul. 2019)_  
 Engineering service provider for the automotive industry.
@@ -70,7 +78,7 @@ Engineering service provider for the automotive industry.
 - UI / UX design
 - Communication and collaboration with the team and the client according to Scrum
 
-### Customer air service Experience
+### Customer air service experience
 
 **Customer Service & Ticketing Agent in Kiev, Ukraine** @ [KIY AVIA | Air Service Agentur AG](https://kiyavia.com/en) _(Apr. 2006 - Jan. 2015)_  
 KiyAvia specializes in the sales of transport and travel services for airline and tourism companies across Europe.
