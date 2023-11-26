@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -8,51 +7,51 @@
     <title>CV Svitlana Grytsai</title>
     <link rel="stylesheet" href="css/styles.css">
   </head>
-
   <body>
     <header>
-      <div class="contacts">
-        <h2>Contacts</h2>
-        <ul class="list-contacts">
-          <li>
-            <img class="icon" src="img/call-24px.svg" alt="Icon Telephone"><a
-              href="tel:+400000000000"
-              >+400000000000</a
-            >
-          </li>
-          <li>
-            <img class="icon" src="img/email-24px.svg" alt="Icon E-mail">
-            <a href="mailto:svitlana.grytsai@gmail.com" target="_blank"
-              >svitlana.grytsai@gmail.com</a
-            >
-          </li>
-          <li>
-            <img class="icon" src="img/linkedin-icon.png" alt="Icon LinkedIn">
-            <a
-              href="https://www.linkedin.com/in/svitlana-grytsai-b76a3a33/"
-              target="_blank"
-              >My LinkedIn Profile</a
-            >
-          </li>
-          <li>
-            <img class="icon" src="img/xing-icon.svg" alt="Icon LinkedIn">
-            <a
-              href="https://www.xing.com/profile/Svitlana_Grytsai/cv"
-              target="_blank"
-              >My Xing Profile</a
-            >
-          </li>
-        </ul>
-      </div>
-      <div class="userinfo">
-        <h1>Svitlana Grytsai</h1>
-        <h5>Frontend Developer</h5>
-      </div>
       <div class="userpic">
         <img id="cv-foto" src="img/pic.JPG" alt="CV photo">
       </div>
+      <div class="userinfo">
+        <h1>Svitlana Grytsai</h1>
+        <h2 class="qualification">Frontend Developer</h2>
+      </div>
+      <div class="contacts">
+        <h2 class="titleContacts">Contacts</h2>
+          <nav>
+            <ul class="list-contacts">
+              <li>
+                <img class="icon" src="img/call-24px.svg" alt="Icon Telephone"><a
+                  href="tel:+400000000000"
+                  >+400000000000</a
+                >
+              </li>
+              <li>
+                <img class="icon" src="img/email-24px.svg" alt="Icon E-mail">
+                <a href="mailto:svitlana.grytsai@gmail.com" target="_blank"
+                  >svitlana.grytsai@gmail.com</a
+                >
+              </li>
+              <li>
+                <img class="icon" src="img/linkedin-icon.png" alt="Icon LinkedIn">
+                <a
+                  href="https://www.linkedin.com/in/svitlana-grytsai-b76a3a33/"
+                  target="_blank"
+                  >My LinkedIn Profile</a
+                >
+              </li>
+              <li>
+                <img class="icon" src="img/xing-icon.svg" alt="Icon LinkedIn">
+                <a
+                  href="https://www.xing.com/profile/Svitlana_Grytsai/cv"
+                  target="_blank"
+                  >My Xing Profile</a
+                >
+              </li>
+            </ul>
+          </nav>
+      </div>
     </header>
-
     <main>
       <section class="intro">
         <div class="grid-container">
@@ -115,7 +114,7 @@
           </p>
           <ul>
             <li>
-              Software Development in various FMS projects
+              Software Development in various Form-Management-System (FMS) projects for the public sector
             </li>
             <li>
               Form development and application enhancement through the development of new functionalities
@@ -252,6 +251,25 @@
               <a href="http://nau.edu.ua/en/" target="_blank">National Aviation University (NAU)</a><span> Kiev, Ukraine</span>
             </address>
         </div>
+        <div class="steps">
+          <div class="titel">
+            <h3>Code examples</h3>
+          </div>
+          <pre>
+            <code>
+                let surname = "Grytsai";
+                let name = "Svitlana";
+                let isRsStudent = true;
+    
+                function greet(name, surname) {
+                    return "Hello, " + name + " " surname + "!";
+                }
+    
+                let result = greet(name, surname);
+                console.log(result);
+            </code>
+        </pre>
+        </div>
       </section>
     </main>
     <footer>
@@ -262,7 +280,13 @@
       <p id="copyright">
         Copyright &#169;
         <script>
-          document.write(new Date().getFullYear());
+          document.write(showCurrentMonthYear());
+          function showCurrentMonthYear() {
+            const currentDate = new Date();
+            const currentMonth = currentDate.getMonth() + 1;
+            const currentYear = currentDate.getFullYear();
+            return `${currentMonth}/${currentYear}`;
+          }
         </script>
         Svitlana Grytsai All Rights Reserved
       </p>
